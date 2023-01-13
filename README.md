@@ -1,7 +1,7 @@
 Java training
 ======
 
-# Synopsys
+# Synopsis
 It will be written that the results and trouble shootings by Jason W Suk.  
 The ultimate mission object is to make a session clustering themselves. Or any new missions are able to be made.  
 Jason will write daily log of their Java training. If you have any questions, contact to Jason.  
