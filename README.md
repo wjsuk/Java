@@ -25,3 +25,11 @@ https://www.jetbrains.com/ko-kr/idea/download/download-thanks.html?platform=wind
 https://www.codestates.com/blog/content/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8  
 
 https://opentutorials.org/course/3930/26654  
+
+### 14th
+Printing string: ./Arashio.java 
+Pringing various data: ./Data.java 
+Printing various calculating/math class: ./Number.java 
+
+#### The data of today
+https://opentutorials.org/course/3930/26657  
