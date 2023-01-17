@@ -1,0 +1,11 @@
+package org.Arashio.string;
+
+public class StringDemo {
+	public static void main(String[] args) {
+		String a, b;
+		a = "Arashio astonishes all over the world!";
+		b = "The golden eagle astonishes all over the world!";
+		System.out.println(a+b);
+	}
+
+}

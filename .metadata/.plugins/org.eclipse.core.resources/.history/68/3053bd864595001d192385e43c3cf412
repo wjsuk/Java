@@ -1,0 +1,22 @@
+package org.Arashio.data;
+
+public class Number {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(3+5);
+		System.out.println(3-5);
+		System.out.println(3*5);
+		System.out.println(3/5);
+		System.out.println(3%5);
+		System.out.println("Arashio");
+		System.out.println('R');
+		System.out.println("거친미세기 온 세상을 놀라게 하다!!");
+		System.out.println('즐');
+		System.out.println('荒');
+		System.out.println("荒潮全世界を驚かせる");
+		System.out.println('Arashio astonishes all over the world.');
+
+	}
+
+}
